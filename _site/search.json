@@ -21,18 +21,18 @@
     "text": "Postdoctoral Associate\nCa’ Foscari University of Venice\n\n\n\n\n\nI am a postdoctoral associate in the Department of Environmental Sciences, Informatics and Statistics at Ca’ Foscari University of Venice, working with Ilaria Prosdocimi. I received my PhD in Statistics at the Universiy of Padova in 2025, under the supervision of Bruno Scarpa and Matteo Fasiolo.\nI am interested in developing flexible regression models for the analysis of complex data, with a focus on both theoretical and computational aspects. My recent work involves Generalized Additive Models (GAMs), distributional regression, and applications to environmental data.\nOutside statistics, I love hiking and climbing, particularly in my home mountains: the Dolomites.\n See my full CV.\n\n\n\n\n\nGeneralized Additive Models\nDistributional Regression\nSurvival Analysis\nGradient Boosting\nEnvironmental data\n\n\n\n\n\n\n\nPhD in Statistics, 2025   University of Padova\n\n\nMSc in Mathematics, 2021 University of Trento\n\n\nMSc in Mathematics, 2019  University of Trento"
   },
   {
-    "objectID": "pubblications.html",
-    "href": "pubblications.html",
-    "title": "Pubblicazioni",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Claudia Collarin",
     "section": "",
-    "text": "Rossi, M. & Cognome, N. (2024). A Bayesian approach to …. Journal of Statistical Methods.\nCognome, N. (2023). Machine learning applications in …. Annals of Statistics.\nRossi, L., Bianchi, A., & Cognome, N. (2022). On causal inference …. JRSS B."
+    "text": "Generalized Additive Models\nDistributional Regression\nSurvival Analysis\nGradient Boosting\nEnvironmental data"
   },
   {
-    "objectID": "pubblications.html#selezione-di-articoli-recenti",
-    "href": "pubblications.html#selezione-di-articoli-recenti",
-    "title": "Pubblicazioni",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Claudia Collarin",
     "section": "",
-    "text": "Rossi, M. & Cognome, N. (2024). A Bayesian approach to …. Journal of Statistical Methods.\nCognome, N. (2023). Machine learning applications in …. Annals of Statistics.\nRossi, L., Bianchi, A., & Cognome, N. (2022). On causal inference …. JRSS B."
+    "text": "PhD in Statistics, 2025   University of Padova\n\n\nMSc in Mathematics, 2021 University of Trento\n\n\nMSc in Mathematics, 2019  University of Trento"
   },
   {
     "objectID": "about.html",
@@ -40,13 +40,6 @@
     "title": "About myself",
     "section": "",
     "text": "I am a postdoctoral associate in the Department of Environmental Sciences, Informatics and Statistics at Ca’ Foscari University of Venice, working with Ilaria Prosdocimi I received my PhD in Statistics at the Universiy of Padova in 2025, under the supervision of Bruno Scarpa and Matteo Fasiolo.\nI am interested in developing flexible regression models for the analysis of complex data, with a focus on both theoretical and computational aspects. My recent work involves Generalized Additive Models (GAMs), distributional regression, and applications to environmental data.\nOutside statistics, I love hiking and climbing, particularly in my home mountains: the Dolomites.\nSee my full 📄 CV."
-  },
-  {
-    "objectID": "about.html#biografia",
-    "href": "about.html#biografia",
-    "title": "Chi sono",
-    "section": "",
-    "text": "Breve descrizione del percorso accademico, istituzione, interessi di ricerca."
   },
   {
     "objectID": "about.html#esperienze-accademiche",
@@ -63,13 +56,6 @@
     "text": "Premi e riconoscimenti\n\nPremio XYZ per la ricerca (2019)"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Didattica",
-    "section": "",
-    "text": "Corsi a.a. 2024/2025\n\nStatistica 1 (laurea triennale)\nModelli statistici avanzati (laurea magistrale)\n\nMateriali e slide disponibili sulla piattaforma e-learning dell’Ateneo."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -77,46 +63,11 @@
     "text": "Collarin, C., and Fasiolo, M. (2025+), “Creating semi-parametric AFT models via monotonic P-splines.”\n\n\nCollarin, C., Fasiolo, M., Wood, S., and Goude, Y. (2025+), “Integrating complex covariate transformations in generalized additive models.”\n\n\nCollarin, C., Prosdocimi, I., Girardi, P., and Masiol, M. (2025+), “Semi-parametric analysis of air pollutant trends in the north-eastern Italian Alps.”\n\n\nGirardi, P., Collarin, C., Prosdocimi, I., and Masiol, M. (2025+), “A functional land use regression model for NO\\(_{2}\\) concentration in the Italian Alpine region.”"
   },
   {
-    "objectID": "publications.html#selezione-di-articoli-recenti",
-    "href": "publications.html#selezione-di-articoli-recenti",
-    "title": "Pubblicazioni",
-    "section": "",
-    "text": "Rossi, M. & Cognome, N. (2024). A Bayesian approach to …. Journal of Statistical Methods.\nCognome, N. (2023). Machine learning applications in …. Annals of Statistics.\nRossi, L., Bianchi, A., & Cognome, N. (2022). On causal inference …. JRSS B."
-  },
-  {
-    "objectID": "publications.html#atti-di-conferenze",
-    "href": "publications.html#atti-di-conferenze",
-    "title": "Publications",
-    "section": "Atti di conferenze",
-    "text": "Atti di conferenze\n\n\nCognome, N. (2023), “Machine learning applications in statistics,” Annals of Statistics, 51, 10–35.\n\n\nRossi, M., and Cognome, N. (2024), “A bayesian approach to complex data,” Journal of Statistical Methods, 15, 123–145."
-  },
-  {
-    "objectID": "publications.html#articoli-su-rivista",
-    "href": "publications.html#articoli-su-rivista",
+    "objectID": "publications.html#under-revision-or-in-preparation",
+    "href": "publications.html#under-revision-or-in-preparation",
     "title": "Publications",
     "section": "",
-    "text": "Collarin, C., and Fasiolo, M. (2025), “Creating semi-parametric AFT models via monotonic P-splines.”\n\n\nCollarin, C., Fasiolo, M., Wood, S., and Goude, Y. (2025a), “Integrating complex covariate transformations in generalized additive models.”\n\n\nCollarin, C., Prosdocimi, I., Girardi, P., and Masiol, M. (2025b), “Semi-parametric analysis of air pollutant trends in the north-eastern Italian Alps.”\n\n\nGirardi, P., Collarin, C., Prosdocimi, I., and Masiol, M. (2025), “A functional land use regression model for NO\\(_{2}\\) concentration in the Italian Alpine region.”"
-  },
-  {
-    "objectID": "about.html#about-myself",
-    "href": "about.html#about-myself",
-    "title": "Chi sono",
-    "section": "",
-    "text": "I am a postdoctoral associate in the Department of Environmental Sciences, Informatics and Statistics at Ca’ Foscari University of Venice, working with Ilaria Prosdocimi I received my PhD in Statistics at the Universiy of Padova in 2025, under the supervision of Bruno Scarpa and Matteo Fasiolo.\nI am interested in developing flexible regression models for the analysis of complex data, with a focus on both theoretical and computational aspects. My recent work involves Generalized Additive Models (GAMs), distributional regression, and applications to environmental data.\nOutside statistics, I love hiking and climbing, particularly in my home mountains: the Dolomites.\nSee my full 📄 CV."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Claudia Collarin",
-    "section": "",
-    "text": "Generalized Additive Models\nDistributional Regression\nSurvival Analysis\nGradient Boosting\nEnvironmental data"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Claudia Collarin",
-    "section": "",
-    "text": "PhD in Statistics, 2025   University of Padova\n\n\nMSc in Mathematics, 2021 University of Trento\n\n\nMSc in Mathematics, 2019  University of Trento"
+    "text": "Collarin, C., and Fasiolo, M. (2025+), “Creating semi-parametric AFT models via monotonic P-splines.”\n\n\nCollarin, C., Fasiolo, M., Wood, S., and Goude, Y. (2025+), “Integrating complex covariate transformations in generalized additive models.”\n\n\nCollarin, C., Prosdocimi, I., Girardi, P., and Masiol, M. (2025+), “Semi-parametric analysis of air pollutant trends in the north-eastern Italian Alps.”\n\n\nGirardi, P., Collarin, C., Prosdocimi, I., and Masiol, M. (2025+), “A functional land use regression model for NO\\(_{2}\\) concentration in the Italian Alpine region.”"
   },
   {
     "objectID": "publications.html#conference-proceedings",
@@ -126,10 +77,10 @@
     "text": "Conference proceedings\n\n\nCollarin, C., and Fasiolo, M. (2023), “Automatic effect selection for generalized additive models,” in Proceedings of the 37th international workshop on statistical modelling, pp. 400–404.\n\n\nCollarin, C., and Fasiolo, M. (2024), “Integrating single index effects in generalized additive models,” in Developments in statistical modelling. IWSM 2024, Contributions to statistics, Springer, Cham, pp. 116–120. https://doi.org/10.1007/978-3-031-65723-8_18.\n\n\nCollarin, C., and Fasiolo, M. (2025), “GamFactory: An R package for integrating covariate transformations in GAMLSS,” in Proceedings of the 39th international workshop on statistical modelling, eds. D. O’Sullivan, J. Sweeney, S. Moghaddam, and K. Burke, Limerick, Ireland, pp. 307–311."
   },
   {
-    "objectID": "publications.html#under-revision-or-in-preparation",
-    "href": "publications.html#under-revision-or-in-preparation",
-    "title": "Publications",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Didattica",
     "section": "",
-    "text": "Collarin, C., and Fasiolo, M. (2025+), “Creating semi-parametric AFT models via monotonic P-splines.”\n\n\nCollarin, C., Fasiolo, M., Wood, S., and Goude, Y. (2025+), “Integrating complex covariate transformations in generalized additive models.”\n\n\nCollarin, C., Prosdocimi, I., Girardi, P., and Masiol, M. (2025+), “Semi-parametric analysis of air pollutant trends in the north-eastern Italian Alps.”\n\n\nGirardi, P., Collarin, C., Prosdocimi, I., and Masiol, M. (2025+), “A functional land use regression model for NO\\(_{2}\\) concentration in the Italian Alpine region.”"
+    "text": "Corsi a.a. 2024/2025\n\nStatistica 1 (laurea triennale)\nModelli statistici avanzati (laurea magistrale)\n\nMateriali e slide disponibili sulla piattaforma e-learning dell’Ateneo."
   }
 ]
