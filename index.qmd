@@ -1,0 +1,73 @@
+---
+title: ""
+format: 
+  html: 
+    page-layout: full
+---
+:::: {.columns}
+
+::: {.column width="40%"}
+<br><br>  <!-- adds extra space -->
+<div style="text-align: center;">
+![](./me.jpg){.profile-pic width="400"}
+
+<br><br>  <!-- adds extra space -->
+
+# Claudia Collarin
+
+
+
+Postdoctoral Associate
+
+Ca’ Foscari University of Venice
+</div>
+
+
+:::
+
+::: {.column width="60%"}
+
+# About myself
+I am a postdoctoral associate in the <a href="https://www.unive.it/pag/16129" target="blank_">Department of Environmental Sciences, Informatics and Statistics</a> at Ca’ Foscari University of Venice, working with Ilaria Prosdocimi. I received my PhD in Statistics at the Universiy of Padova in 2025, under the supervision of Bruno Scarpa and Matteo Fasiolo.
+
+I am interested in developing flexible regression models for the analysis of complex data, with a focus on both theoretical and computational aspects. My recent work involves Generalized Additive Models (GAMs), distributional regression, and applications to environmental data.
+
+Outside statistics, I love hiking and climbing, particularly in my home mountains: the Dolomites.
+
+{{< fa file-pdf >}} See my full [CV](cv.pdf).
+
+:::: {.columns}
+
+::: {.column width="50%"}
+## Research interests
+
+- Generalized Additive Models
+- Distributional Regression
+- Survival Analysis
+- Gradient Boosting
+- Environmental data
+:::
+
+::: {.column width="50%"}
+## Education 
+<ul class="icon-list">
+  <li>PhD in Statistics, 2025 <br>
+  <span style="margin-left: 37px;"> University of Padova</li>
+  <li>MSc in Mathematics, 2021<br>
+  <span style="margin-left: 37px;">University of Trento</li>
+  <li>MSc in Mathematics, 2019 <br>
+  <span style="margin-left: 37px;">University of Trento</li>
+</ul>
+:::
+
+::::
+
+:::
+
+::::
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+---
+title: "Publications"
+filters:
+  - multibib
+validate-yaml: false
+bibliography: 
+  publicati: miaBiblio.bib
+  conferenze: conferenze.bib
+csl: jasa.csl
+nocite: |
+  @*
+---
+
+## Under revision or in preparation
+
+::: {#refs-publicati}
+:::
+
+## Conference proceedings
+
+:::{#refs-conferenze .references data-tags="conference"}
+:::

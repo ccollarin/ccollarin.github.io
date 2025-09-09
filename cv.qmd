@@ -1,0 +1,12 @@
+---
+title: "Curriculum Vitae"
+---
+
+Puoi scaricare il mio CV completo in PDF qui:  
+[📄 CV in PDF](cv.pdf)
+
+## Competenze
+- Statistica Bayesiana
+- Machine Learning
+- Data Visualization
+

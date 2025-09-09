@@ -1,0 +1,19 @@
+---
+title: "About myself"
+---
+
+I am a postdoctoral associate in the <a href="https://www.unive.it/pag/16129" target="blank_">Department of Environmental Sciences, Informatics and Statistics</a> at Ca’ Foscari University of Venice, working with Ilaria Prosdocimi I received my PhD in Statistics at the Universiy of Padova in 2025, under the supervision of Bruno Scarpa and Matteo Fasiolo.
+
+I am interested in developing flexible regression models for the analysis of complex data, with a focus on both theoretical and computational aspects. My recent work involves Generalized Additive Models (GAMs), distributional regression, and applications to environmental data.
+
+Outside statistics, I love hiking and climbing, particularly in my home mountains: the Dolomites.
+
+See my full [📄 CV](cv.pdf).
+
+## Esperienze accademiche
+- Professore associato, Università XYZ (2020–oggi)
+- Ricercatore, Università ABC (2015–2020)
+
+## Premi e riconoscimenti
+- Premio XYZ per la ricerca (2019)
+
