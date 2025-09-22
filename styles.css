@@ -14,14 +14,16 @@ body {
 /* Style for the circular profile picture */
 .profile-pic {
   border-radius: 50%;
-  width: 300px;
-  height: 300px;
+  width: 100%;            /* 40% of viewport width */
+  max-width: 300px;
+  height: auto;
   object-fit: cover;      /* fills circle without distortion */
   display: block;         /* makes image a block so margin auto works */
   margin-left: auto;      /* centers horizontally */
   margin-right: auto;     /* centers horizontally */
   margin-bottom: 10px;    /* space below the image */
 }
+
 
 .fa-file-pdf {
   font-size: 30px;   /* dimensione in pixel */
