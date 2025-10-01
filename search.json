@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Didattica",
     "section": "",
-    "text": "Puoi scaricare il mio CV completo in PDF qui:\n📄 CV in PDF"
+    "text": "Corsi a.a. 2024/2025\n\nStatistica 1 (laurea triennale)\nModelli statistici avanzati (laurea magistrale)\n\nMateriali e slide disponibili sulla piattaforma e-learning dell’Ateneo."
   },
   {
-    "objectID": "cv.html#competenze",
-    "href": "cv.html#competenze",
-    "title": "Curriculum Vitae",
-    "section": "Competenze",
-    "text": "Competenze\n\nStatistica Bayesiana\nMachine Learning\nData Visualization"
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Collarin, C., and Fasiolo, M. (2025+), “Creating semi-parametric AFT models via monotonic P-splines.”\n\n\nCollarin, C., Fasiolo, M., Wood, S. N., and Goude, Y. (2025+), “Integrating complex covariate transformations in generalized additive models.”\n\n\nCollarin, C., Prosdocimi, I., Girardi, P., and Masiol, M. (2025+), “Semi-parametric analysis of air pollutant trends in the north-eastern Italian Alps.”\n\n\nCollarin, C., Prosdocimi, I., Girardi, P., and Wood, S. N. (2025+), “Censored Box-Cox Gaussian models.”\n\n\nGirardi, P., Collarin, C., Prosdocimi, I., and Masiol, M. (2025+), “A functional land use regression model for NO\\(_{2}\\) concentration in the Italian Alpine region.”"
+  },
+  {
+    "objectID": "publications.html#under-revision-or-in-preparation",
+    "href": "publications.html#under-revision-or-in-preparation",
+    "title": "Publications",
+    "section": "",
+    "text": "Collarin, C., and Fasiolo, M. (2025+), “Creating semi-parametric AFT models via monotonic P-splines.”\n\n\nCollarin, C., Fasiolo, M., Wood, S. N., and Goude, Y. (2025+), “Integrating complex covariate transformations in generalized additive models.”\n\n\nCollarin, C., Prosdocimi, I., Girardi, P., and Masiol, M. (2025+), “Semi-parametric analysis of air pollutant trends in the north-eastern Italian Alps.”\n\n\nCollarin, C., Prosdocimi, I., Girardi, P., and Wood, S. N. (2025+), “Censored Box-Cox Gaussian models.”\n\n\nGirardi, P., Collarin, C., Prosdocimi, I., and Masiol, M. (2025+), “A functional land use regression model for NO\\(_{2}\\) concentration in the Italian Alpine region.”"
+  },
+  {
+    "objectID": "publications.html#conference-proceedings",
+    "href": "publications.html#conference-proceedings",
+    "title": "Publications",
+    "section": "Conference proceedings",
+    "text": "Conference proceedings\n\n\nCollarin, C., and Fasiolo, M. (2023), “Automatic effect selection for generalized additive models,” in Proceedings of the 37th international workshop on statistical modelling, pp. 400–404.\n\n\nCollarin, C., and Fasiolo, M. (2024), “Integrating single index effects in generalized additive models,” in Developments in statistical modelling. IWSM 2024, Contributions to statistics, Springer, Cham, pp. 116–120. https://doi.org/10.1007/978-3-031-65723-8_18.\n\n\nCollarin, C., and Fasiolo, M. (2025), “GamFactory: An R package for integrating covariate transformations in GAMLSS,” in Proceedings of the 39th international workshop on statistical modelling, eds. D. O’Sullivan, J. Sweeney, S. Moghaddam, and K. Burke, Limerick, Ireland, pp. 307–311."
   },
   {
     "objectID": "index.html",
@@ -33,33 +47,5 @@
     "title": "Claudia Collarin",
     "section": "",
     "text": "PhD in Statistics, 2025   University of Padova\n\n\nMSc in Mathematics, 2021 University of Trento\n\n\nMSc in Mathematics, 2019  University of Trento"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Collarin, C., and Fasiolo, M. (2025+), “Creating semi-parametric AFT models via monotonic P-splines.”\n\n\nCollarin, C., Fasiolo, M., Wood, S., and Goude, Y. (2025+), “Integrating complex covariate transformations in generalized additive models.”\n\n\nCollarin, C., Prosdocimi, I., Girardi, P., and Masiol, M. (2025+), “Semi-parametric analysis of air pollutant trends in the north-eastern Italian Alps.”\n\n\nGirardi, P., Collarin, C., Prosdocimi, I., and Masiol, M. (2025+), “A functional land use regression model for NO\\(_{2}\\) concentration in the Italian Alpine region.”"
-  },
-  {
-    "objectID": "publications.html#under-revision-or-in-preparation",
-    "href": "publications.html#under-revision-or-in-preparation",
-    "title": "Publications",
-    "section": "",
-    "text": "Collarin, C., and Fasiolo, M. (2025+), “Creating semi-parametric AFT models via monotonic P-splines.”\n\n\nCollarin, C., Fasiolo, M., Wood, S., and Goude, Y. (2025+), “Integrating complex covariate transformations in generalized additive models.”\n\n\nCollarin, C., Prosdocimi, I., Girardi, P., and Masiol, M. (2025+), “Semi-parametric analysis of air pollutant trends in the north-eastern Italian Alps.”\n\n\nGirardi, P., Collarin, C., Prosdocimi, I., and Masiol, M. (2025+), “A functional land use regression model for NO\\(_{2}\\) concentration in the Italian Alpine region.”"
-  },
-  {
-    "objectID": "publications.html#conference-proceedings",
-    "href": "publications.html#conference-proceedings",
-    "title": "Publications",
-    "section": "Conference proceedings",
-    "text": "Conference proceedings\n\n\nCollarin, C., and Fasiolo, M. (2023), “Automatic effect selection for generalized additive models,” in Proceedings of the 37th international workshop on statistical modelling, pp. 400–404.\n\n\nCollarin, C., and Fasiolo, M. (2024), “Integrating single index effects in generalized additive models,” in Developments in statistical modelling. IWSM 2024, Contributions to statistics, Springer, Cham, pp. 116–120. https://doi.org/10.1007/978-3-031-65723-8_18.\n\n\nCollarin, C., and Fasiolo, M. (2025), “GamFactory: An R package for integrating covariate transformations in GAMLSS,” in Proceedings of the 39th international workshop on statistical modelling, eds. D. O’Sullivan, J. Sweeney, S. Moghaddam, and K. Burke, Limerick, Ireland, pp. 307–311."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Didattica",
-    "section": "",
-    "text": "Corsi a.a. 2024/2025\n\nStatistica 1 (laurea triennale)\nModelli statistici avanzati (laurea magistrale)\n\nMateriali e slide disponibili sulla piattaforma e-learning dell’Ateneo."
   }
 ]
